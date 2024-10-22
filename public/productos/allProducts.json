@@ -1,0 +1,118 @@
+{
+  "categorias": [
+    {
+      "nombre": "Aretes",
+      "productos": [
+        {
+          "name": "Aretes #1",
+          "price": 60.0,
+          "originalPrice": 0,
+          "image": "/img/aretes/aretes-1.jpg",
+          "url": "/productos/aretes/aretes-1",
+          "description": ""
+        },
+        {
+          "name": "Aretes #2",
+          "price": 120.0,
+          "originalPrice": 0,
+          "image": "/img/aretes/aretes-2.jpg",
+          "url": "/productos/aretes/aretes-2",
+          "description": ""
+        },
+        {
+          "name": "Aretes #3",
+          "price": 120.0,
+          "originalPrice": 0,
+          "image": "/img/aretes/aretes-3.jpg",
+          "url": "/productos/aretes/aretes-3",
+          "description": ""
+        },
+        {
+          "name": "Aretes #4",
+          "price": 120.0,
+          "originalPrice": 0,
+          "image": "/img/aretes/aretes-4.jpg",
+          "url": "/productos/aretes/aretes-4",
+          "description": ""
+        },
+        {
+          "name": "Aretes #5",
+          "price": 60.0,
+          "originalPrice": 0,
+          "image": "/img/aretes/aretes-5.jpg",
+          "url": "/productos/aretes/aretes-5",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "nombre": "Earcuffs Ely",
+      "productos": [
+        {
+          "name": "Earcuff Ely Corazón",
+          "price": 33.33,
+          "originalPrice": 50.0,
+          "image": "/img/earcuff-ely/earcuff-ely-1.jpg",
+          "url": "/productos/earcuffs-ely/earcuff-ely-1",
+          "description": ""
+        },
+        {
+          "name": "Earcuff Ely Colores",
+          "price": 33.33,
+          "originalPrice": 50.0,
+          "image": "/img/earcuff-ely/earcuff-ely-2.jpg",
+          "url": "/productos/earcuffs-ely/earcuff-ely-2",
+          "description": ""
+        },
+        {
+          "name": "Earcuff Ely Flores #1",
+          "price": 33.33,
+          "originalPrice": 50.0,
+          "image": "/img/earcuff-ely/earcuff-ely-3.jpg",
+          "url": "/productos/earcuffs-ely/earcuff-ely-3",
+          "description": ""
+        },
+        {
+          "name": "Earcuff Ely Blanco/Dorado #1",
+          "price": 33.33,
+          "originalPrice": 50.0,
+          "image": "/img/earcuff-ely/earcuff-ely-4.jpg",
+          "url": "/productos/earcuffs-ely/earcuff-ely-4",
+          "description": ""
+        },
+        {
+          "name": "Earcuff Ely Blanco/Dorado #2",
+          "price": 33.33,
+          "originalPrice": 50.0,
+          "image": "/img/earcuff-ely/earcuff-ely-5.jpg",
+          "url": "/productos/earcuffs-ely/earcuff-ely-5",
+          "description": ""
+        },
+        {
+          "name": "Earcuff Ely Cristal",
+          "price": 33.33,
+          "originalPrice": 50.0,
+          "image": "/img/earcuff-ely/earcuff-ely-6.jpg",
+          "url": "/productos/earcuffs-ely/earcuff-ely-6",
+          "description": ""
+        },
+        {
+          "name": "Earcuff Ely Flores #2",
+          "price": 33.33,
+          "originalPrice": 50.0,
+          "image": "/img/earcuff-ely/earcuff-ely-7.jpg",
+          "url": "/productos/earcuffs-ely/earcuff-ely-7",
+          "description": ""
+        },
+        {
+          "name": "Earcuff Ely Dorado",
+          "price": 33.33,
+          "originalPrice": 50.0,
+          "image": "/img/earcuff-ely/earcuff-ely-8.jpg",
+          "url": "/productos/earcuffs-ely/earcuff-ely-8",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
