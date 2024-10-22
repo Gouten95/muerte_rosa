@@ -3,6 +3,8 @@ import "./globals.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import { ChakraBaseProvider, Container } from "@chakra-ui/react";
+import { SpeedInsights } from '@vercel/speed-insights/next';
+import { Analytics } from '@vercel/analytics/react';
 
 export const metadata: Metadata = {
   title: "Muerte Rosa",
@@ -23,6 +25,8 @@ export default function RootLayout({
           <Footer />
         </ChakraBaseProvider>
       </body>
+      <SpeedInsights />
+      <Analytics />
     </html>
   );
 }
