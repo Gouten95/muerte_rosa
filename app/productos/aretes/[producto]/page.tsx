@@ -82,17 +82,6 @@ export default function PDPearcuffsEly() {
 
   return (
     <Center py={10} flexDirection="column" alignItems="center">
-      <Box>
-        <Text
-          fontSize={{ base: "14px", md: "22px" }}
-          padding={5}
-          border={"10px solid #e590a7"}
-          bgColor={"#f3a8a8"}
-          color={"#ffffff"}
-        >
-          Valor unitario $50.00, en la compra de 2 te llevas otro gratis (3x2)
-        </Text>
-      </Box>
       <Container maxW={1200}>
         <SimpleGrid
           columns={{ base: 1, lg: 2 }}

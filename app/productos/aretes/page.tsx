@@ -127,7 +127,7 @@ export default function PLParetes() {
       <Box mb={20} textAlign="center">
         <Center>
           <Text fontSize={["2xl", "4xl"]} fontWeight="bold">
-            Todos los productos
+            Aretes
           </Text>
         </Center>
       </Box>

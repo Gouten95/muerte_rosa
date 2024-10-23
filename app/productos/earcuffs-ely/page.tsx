@@ -125,12 +125,23 @@ export default function PLPearcuffely() {
 
   return (
     <Center py={12} flexDirection="column" alignItems="center">
-      <Box mb={20} textAlign="center">
+      <Box mb={10} textAlign="center">
         <Center>
           <Text fontSize={["2xl", "4xl"]} fontWeight="bold">
-            Todos los productos
+            Earcuff Ely
           </Text>
         </Center>
+      </Box>
+      <Box mb={20}>
+        <Text
+          fontSize={{ base: "14px", md: "22px" }}
+          padding={5}
+          border={"10px solid #e590a7"}
+          bgColor={"#f3a8a8"}
+          color={"#ffffff"}
+        >
+          Valor unitario $50.00, en la compra de 2 te llevas otro gratis (3x2)
+        </Text>
       </Box>
       <Box mb={5}>
         <Button
